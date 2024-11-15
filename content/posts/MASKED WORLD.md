@@ -1,8 +1,8 @@
 +++
-title = 'MASKED WORLD'
+title = 'Masked World'
 date = 2024-11-16
 draft = false
-tags = ['MASKED WORLD']
+tags = ['Masked World']
 author = 'Abhishek A S'
 +++
 
