@@ -14,6 +14,9 @@ The clarity of facts is lost in the haze,\
 As blind beliefs guide their ways.
 
 
+
+
+
 Synopsis : This stanza explores how people often distort reality by hiding behind superstition, treating myths as truth and avoiding the clarity that facts provide.\
            Instead of embracing truth, they remain trapped in the fog of outdated beliefs, allowing these blind assumptions to dictate their actions and decisions.\
            It highlights the conflict between truth and superstition, emphasizing how the latter prevents growth and clear understanding.
