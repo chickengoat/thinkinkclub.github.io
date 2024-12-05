@@ -14,7 +14,7 @@ love you coz
 across great sea\
 come to me\
 flower hopper bee\
-passionate couple we\ 
+passionate couple we
 
 red red beauty\
 for my cutie\
