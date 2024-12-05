@@ -3,7 +3,7 @@ title = 'rose'
 date = 2024-12-05
 draft = false
 tags = ['poem']
-author = 'juliannevillecorrea.gmail.com'
+author = 'juliannevillecorrea@gmail.com'
 +++
 
 pretty pretty rose\
